@@ -3,8 +3,8 @@
 import React from 'react'
 import Title from './Title'
 import Technologies from './Technologies'
-import Contacts from './Contacts'
 import Form from './Form'
+import Footer from './Footer'
 
 function App() {
 
@@ -15,9 +15,9 @@ function App() {
 
       <Technologies />
 
-      <Contacts />
-      
       <Form />
+
+      <Footer />
 
     </div>
   )
