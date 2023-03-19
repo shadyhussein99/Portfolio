@@ -9,7 +9,7 @@ import Footer from './Footer'
 function App() {
 
   return (
-    <div>
+    <div className=' text-gray-400 text-lg font-body leading-8'>
 
       <Title />
 

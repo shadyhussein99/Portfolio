@@ -4,10 +4,25 @@ module.exports = {
     "./index.html",
     "./src/index.jsx",
     "./src/components/App.jsx",
+    "./src/components/Footer.jsx",
+    "./src/components/Form.jsx",
+    "./src/components/Technologies.jsx",
+    "./src/components/Title.jsx",
   ],
 
   theme: {
-    extend: {},
+    extend: {
+
+      colors: {
+        "background": "#012A4A",
+        "heading": "#E4C988"
+      },
+
+      fontFamily: {
+        "body": ["Open Sans"]
+      }
+
+    },
   },
   plugins: [],
 }
