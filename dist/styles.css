@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    background-color: #012A4A;
+}
+
+/* Navbar */
+
+nav {
+    background-color: rgb(1 58 99);
+}
+
+.nav-item-sm {
+    @apply text-heading mt-3 text-base relative right-40 sm:right-60
+}
+
+/* Technologies */
+
+.technologies-img {
+    @apply col-span-1 mx-auto mt-12 md:mt-20
+}
+
+/* Footer */
+
+.footer-div {
+    background-color: rgb(1 58 99);
+}
