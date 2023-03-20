@@ -8,6 +8,7 @@ module.exports = {
     "./src/components/Form.jsx",
     "./src/components/Technologies.jsx",
     "./src/components/Title.jsx",
+    "./src/components/Navbar.jsx"
   ],
 
   theme: {
@@ -19,7 +20,8 @@ module.exports = {
       },
 
       fontFamily: {
-        "body": ["Open Sans"]
+        "body": ["Open Sans"],
+        "nav": ["Playfair Display"]
       }
 
     },
