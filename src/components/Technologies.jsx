@@ -14,7 +14,8 @@ function Technologies() {
             <img className=" w-20 technologies-img md:w-24" src="/pics/html5.svg" alt="HTML5" />    
             <img className=" w-20 technologies-img md:w-24" src="/pics/material-ui.svg" alt="Material-UI" />
             <img className=" w-16 technologies-img md:w-20" src="/pics/bootstrap.svg" alt="Bootstrap" />
-            <img className=" w-20 technologies-img md:w-24" src="/pics/tailwind.svg" alt="Tailwind" />           
+            <img className=" w-20 technologies-img md:w-24" src="/pics/tailwind.svg" alt="Tailwind" /> 
+            <img className=" w-20 technologies-img md:w-24" src="/pics/git.svg" alt="Git" />          
         </div>
     </div>
 }
