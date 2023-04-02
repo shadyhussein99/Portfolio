@@ -5,14 +5,14 @@ import { useState } from "react"
 
 function Navbar() {
 
-    var [navIconClicked, setNavIconClicked] = useState(false)
+    const [navIconClicked, setNavIconClicked] = useState(false)
 
     return <div>
 
         <nav className="flex justify-between shadow-xl">
 
 
-                <h1 className=" font-nav text-heading py-7 text-3xl ml-10 md:text-white md:text-4xl lg:ml-24 lg:py-9 xl:ml-36">
+                <h1 className=" text-heading font-nav py-7 text-3xl ml-10 md:text-white md:text-4xl lg:ml-24 lg:py-9 xl:ml-36">
                     <a href="">SHADY</a>
                 </h1>
 
