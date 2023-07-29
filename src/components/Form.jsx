@@ -7,7 +7,7 @@ function Form() {
 
         <h3 className="text-xl font-semibold text-heading text-center md:text-2xl"> I would like to hear from you !</h3>
 
-        <form className="mt-12 md:mt-16" action="mailto:shadyhussein99@gmail.com">
+        <form className="mt-12 md:mt-16" action="mailto:shadyhussein99@gmail.com" method="post">
 
             <section>
                 <section className="mt-10 flex justify-center">
