@@ -20,9 +20,9 @@ function Title() {
           Shady Hussein
         </h1>
         <p>
-          I'm a frontend web developer at{" "}
+          I'm a frontend web developer at
           <span className="text-heading font-semibold">
-            Blue Sun Automation
+            Mahaseel Masr
           </span>
         </p>
         <em>
