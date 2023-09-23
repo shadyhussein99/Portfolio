@@ -88,6 +88,7 @@ function Technologies() {
           />
         </div>
       </section>
+
     </section>
   );
 }
